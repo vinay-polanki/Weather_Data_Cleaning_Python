@@ -1,5 +1,4 @@
-# Weather Cleaning Project using Python
-practice_projects
+# ROD(Read-Observe-Document)-practice_projects 
 
 # Exploratory Data Analysis on Weather Data Using Python and Pandas:
 
