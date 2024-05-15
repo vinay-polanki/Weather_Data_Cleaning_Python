@@ -34,4 +34,6 @@ Employed functions like groupby and get_group to filter data based on specific c
 15.Complex Condition Filtering: Identified instances where the weather was clear and relative humidity was above 50 or visibility was above 40.
 
 
-    This analysis provides a comprehensive understanding of the weather dataset, showcasing various insights derived through Python programming and Pandas manipulation techniques.
+This analysis provides a comprehensive understanding of 
+    the weather dataset, showcasing various insights derived through Python 
+    programming and Pandas manipulation techniques.
