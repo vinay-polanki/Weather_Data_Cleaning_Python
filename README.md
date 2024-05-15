@@ -19,18 +19,31 @@ Employed functions like groupby and get_group to filter data based on specific c
 1.Unique Wind Speeds: Identified all unique wind speed values present in the dataset.
 
 2.Occurrences of Clear Weather: Determined the frequency of instances when the weather condition was exactly "Clear."
+
 3.Specific Wind Speed Instances: Found the number of occurrences when the wind speed was exactly 4 km/h.
+
 4.Handling Null Values: Identified and managed null values within the dataset.
+
 5.Column Renaming: Renamed the column 'Weather' to 'Weather Condition' for clarity.
+
 6.Mean Visibility: Calculated the mean visibility across all records.
+
 7.Standard Deviation of Pressure: Determined the standard deviation of the pressure column.
+
 8.Variance of Relative Humidity: Computed the variance of the relative humidity column.
+
 9.Occurrences of Snow: Identified all instances where snow was recorded.
+
 10.High Wind Speed and Visibility: Found instances where wind speed exceeded 24 km/h and visibility was at least 25.
+
 11.Mean Values by Weather Condition: Calculated mean values for each column grouped by weather condition.
+
 12.Extreme Values by Weather Condition: Identified maximum and minimum values for each column based on weather conditions.
+
 13.Foggy Weather Records: Displayed all records where the weather condition was foggy.
+
 14.Clear Weather with Good Visibility: Found instances where the weather was clear, and visibility exceeded 40.
+
 15.Complex Condition Filtering: Identified instances where the weather was clear and relative humidity was above 50 or visibility was above 40.
 
 
