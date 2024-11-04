@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # ROD(Read-Observe-Document)-practice_projects 
 
 # Exploratory Data Analysis on Weather Data Using Python and Pandas:
