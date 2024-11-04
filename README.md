@@ -1,4 +1,4 @@
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 # ROD(Read-Observe-Document)-practice_projects 
 
